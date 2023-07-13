@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/partners/static/css/main.dd8b4ab8.css",
+    "main.css": "/partners/static/css/main.3f4cddb2.css",
     "main.js": "/partners/static/js/main.3e2e8b4f.js",
     "static/media/elipse_top.png": "/partners/static/media/elipse_top.82fe708fc81caf48df73.png",
     "static/media/hero__elipse.png": "/partners/static/media/hero__elipse.10f656f3717b0d46ed2d.png",
@@ -21,11 +21,11 @@
     "static/media/arrow.svg": "/partners/static/media/arrow.d5d05e143a1501e11d42.svg",
     "static/media/arrow_black.svg": "/partners/static/media/arrow_black.570efe05c17abcd0cae6.svg",
     "static/media/check__icon.svg": "/partners/static/media/check__icon.e788f5778cb21c093ed5.svg",
-    "main.dd8b4ab8.css.map": "/partners/static/css/main.dd8b4ab8.css.map",
+    "main.3f4cddb2.css.map": "/partners/static/css/main.3f4cddb2.css.map",
     "main.3e2e8b4f.js.map": "/partners/static/js/main.3e2e8b4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd8b4ab8.css",
+    "static/css/main.3f4cddb2.css",
     "static/js/main.3e2e8b4f.js"
   ]
 }
