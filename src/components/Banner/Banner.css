@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     padding: 0 80px;
+    top: 63px;
 }
  .text-block {
     max-width: 375px;
