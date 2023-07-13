@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/partners/static/css/main.dd8b4ab8.css",
+    "main.js": "/partners/static/js/main.3e2e8b4f.js",
+    "static/media/elipse_top.png": "/partners/static/media/elipse_top.82fe708fc81caf48df73.png",
+    "static/media/hero__elipse.png": "/partners/static/media/hero__elipse.10f656f3717b0d46ed2d.png",
+    "static/media/passport__view.jpg": "/partners/static/media/passport__view.b75fd47b15b18b03f95e.jpg",
+    "static/media/hero__img_block.jpg": "/partners/static/media/hero__img_block.17ca07fab9dd1b3c18b4.jpg",
+    "static/media/elipse_bottom.png": "/partners/static/media/elipse_bottom.60aadb03c6ec2d7b121d.png",
+    "static/media/adaptive__form-img.jpg": "/partners/static/media/adaptive__form-img.f316d812a9a45905b010.jpg",
+    "static/media/list__img_block.jpg": "/partners/static/media/list__img_block.01cfaf829c76c32837c3.jpg",
+    "static/media/keyboardt__img_block.jpg": "/partners/static/media/keyboardt__img_block.afc14e53a7990f282ebe.jpg",
+    "static/media/graffikt__img_block.jpg": "/partners/static/media/graffikt__img_block.46a59cc8c5869f980fcc.jpg",
+    "static/media/vector_main.svg": "/partners/static/media/vector_main.e7f6dd1a2021f7c6364a.svg",
+    "static/media/vector_green.svg": "/partners/static/media/vector_green.6d943ee11fba67b0dbdd.svg",
+    "static/media/vector_bottom.svg": "/partners/static/media/vector_bottom.ce5e03763d8e5d38fe90.svg",
+    "index.html": "/partners/index.html",
+    "static/media/check__icon_blue.svg": "/partners/static/media/check__icon_blue.3ba178d6dbdfaa88e0dc.svg",
+    "static/media/arrow_white.svg": "/partners/static/media/arrow_white.0a8f15610d3076f5270d.svg",
+    "static/media/check__icon_gray.svg": "/partners/static/media/check__icon_gray.b72ef848a6a1a1cd6c62.svg",
+    "static/media/arrow.svg": "/partners/static/media/arrow.d5d05e143a1501e11d42.svg",
+    "static/media/arrow_black.svg": "/partners/static/media/arrow_black.570efe05c17abcd0cae6.svg",
+    "static/media/check__icon.svg": "/partners/static/media/check__icon.e788f5778cb21c093ed5.svg",
+    "main.dd8b4ab8.css.map": "/partners/static/css/main.dd8b4ab8.css.map",
+    "main.3e2e8b4f.js.map": "/partners/static/js/main.3e2e8b4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8b4ab8.css",
+    "static/js/main.3e2e8b4f.js"
+  ]
+}
