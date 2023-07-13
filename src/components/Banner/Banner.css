@@ -4,7 +4,6 @@
     display: flex;
     justify-content: space-between;
     padding: 0 80px;
-    top: 63px;
 }
  .text-block {
     max-width: 375px;
@@ -94,7 +93,7 @@
 }
 @media screen and (max-width: 767.98px) {
     .banner {
-        padding: 0 30px 20px;
+        padding: 63px 30px 20px;
     }
     .text-block {
         margin-top: 20px;
@@ -112,6 +111,7 @@
     .banner {
         flex-direction: column;
         padding: 0 20px;
+        padding-top: 50px;
         min-height: 530px;
     }
     .text-block__title {
